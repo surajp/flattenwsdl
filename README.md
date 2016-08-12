@@ -3,4 +3,4 @@
 
 ####Needs JRE 8.0 or higher
 
-####Usage: java com.suraj.utils.FlattenWSDL <wsdlurl> <username if any> <password if any>
+####Usage: java com.suraj.utils.FlattenWSDL &lt;wsdlurl&gt; &lt;username if any&gt; &lt;password if any&gt;
